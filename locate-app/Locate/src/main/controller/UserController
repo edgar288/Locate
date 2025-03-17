@@ -1,0 +1,9 @@
+@RestController
+@RequestMapping("/api")
+public class UserController {
+
+    @GetMapping("/users")
+    public List<User> getAllUsers() {
+
+    }
+}

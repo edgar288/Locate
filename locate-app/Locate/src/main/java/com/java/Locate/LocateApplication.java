@@ -1,4 +1,4 @@
-package com.java.Locate;
+package com.java.locate;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
